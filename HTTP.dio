@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="WZiflAwGHv_2nNCmWgUz" name="Page-1">
+        <mxGraphModel dx="898" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="POST/PUT&lt;br&gt;{&lt;br&gt;genre : &quot;sci-fi&quot;&lt;br&gt;}&lt;br&gt;GET&lt;br&gt;?genre=&quot;sci-fi&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="230" width="160" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Request =&amp;gt; POST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Request Param =&amp;gt; POST" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="130" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="POST/PUT&lt;br&gt;{&lt;br&gt;genre : &quot;sci-fi&quot;&lt;br&gt;}&lt;br&gt;GET&lt;br&gt;?genre=&quot;sci-fi&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="230" width="160" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="190" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
